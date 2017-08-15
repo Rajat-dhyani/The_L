@@ -22,5 +22,5 @@ Hurray! The Client is now also up!! Start Chatting now :) <br>
 
 # Note :
 <strong>1- Run multiple clients to see how the application can support multiple client at the same time. <br>
-2- In the Future module i will be adding a voice message system  to this project(that's why you will see a voice message button in the chat app :P ). </strong>
+2- In the Future module i will be adding a voice message system  to this project(that's why you will see a voice message button in the chat app :P ). </strong> <br>
 3- Any feedback is most welcome and appreciated. Just create an issue for the same and i will respond as soon as possible.
