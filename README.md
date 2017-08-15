@@ -16,8 +16,9 @@ To start the <strong> client </strong> follow these steps <br>
 <strong> step 2 : </strong> Connect to the local host at the port intialized by the server. <br>
 <strong> step 3 : </strong> For the first time user simply fill up the login form and click signup.(Use the same credential again to login into the app again.) <br>
 
-Hurray! The Client is now also up!! <br>
+Hurray! The Client is now also up!! Start Chatting now :) <br>
 
 # Note :
 <strong>1- Run multiple clients to see how the application can support multiple client at the same time. <br>
-2- The Future module i will be adding to it is a voice message system (that's why you will see a voice message button in the chat app :P ). </strong>
+2- In the Future module i will be adding a voice message system  to this project(that's why you will see a voice message button in the chat app :P ). </strong>
+3- Any feedback is most welcome and appreciated. Just create an issue for the same and i will respond as soon as possible.
