@@ -1,6 +1,8 @@
 # The_L - A CHAT APPLICATION
 The L is a LAN (Local Area Network) Chat App for desktop which lets multiple user chat simultaneously.
 
+![The L](http://www.rajatdhyani.xyz/images/RajatDhyani-The_L.jpg)
+
 # Installation :
 Simply fork the project or download source code and then fire it up using netbeans.
 
